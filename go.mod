@@ -1,4 +1,4 @@
-module github.com/zdrgeo/bulk-data-collector
+module github.com/zdrgeo/cwmp-bulk-data-collector
 
 go 1.24
 

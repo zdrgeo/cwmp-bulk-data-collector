@@ -12,8 +12,8 @@ import (
 	"github.com/eclipse/paho.golang/autopaho/queue/memory"
 	"github.com/eclipse/paho.golang/paho"
 	"github.com/spf13/viper"
-	handlers "github.com/zdrgeo/bulk-data-collector/pkg/handlers"
-	mqttservices "github.com/zdrgeo/bulk-data-collector/pkg/services/mqtt"
+	handlers "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/handlers"
+	mqttservices "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services/mqtt"
 )
 
 var (

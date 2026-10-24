@@ -9,7 +9,7 @@ import (
 	"github.com/eclipse/paho.golang/autopaho"
 	"github.com/eclipse/paho.golang/paho"
 
-	"github.com/zdrgeo/bulk-data-collector/pkg/services"
+	"github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services"
 )
 
 type MQTTEventModel struct {

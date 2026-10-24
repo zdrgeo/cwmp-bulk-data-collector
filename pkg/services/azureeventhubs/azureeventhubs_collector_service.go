@@ -15,7 +15,7 @@ import (
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/metric"
 
-	"github.com/zdrgeo/bulk-data-collector/pkg/services"
+	"github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services"
 )
 
 // https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/eventhub/Azure.Messaging.EventHubs/samples/Sample04_PublishingEvents.md#tuning-throughput-for-buffered-publishing

@@ -7,8 +7,8 @@ import (
 
 	daprclient "github.com/dapr/go-sdk/client"
 	"github.com/spf13/viper"
-	"github.com/zdrgeo/bulk-data-collector/pkg/handlers"
-	daprservices "github.com/zdrgeo/bulk-data-collector/pkg/services/dapr"
+	"github.com/zdrgeo/cwmp-bulk-data-collector/pkg/handlers"
+	daprservices "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services/dapr"
 )
 
 const (

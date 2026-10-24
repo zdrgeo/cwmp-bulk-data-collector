@@ -11,8 +11,8 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/spf13/viper"
-	handlers "github.com/zdrgeo/bulk-data-collector/pkg/handlers"
-	otelservices "github.com/zdrgeo/bulk-data-collector/pkg/services/otel"
+	handlers "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/handlers"
+	otelservices "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services/otel"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc"
 	"go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp"

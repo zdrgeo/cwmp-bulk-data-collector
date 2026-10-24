@@ -7,7 +7,7 @@ import (
 
 	daprclient "github.com/dapr/go-sdk/client"
 
-	"github.com/zdrgeo/bulk-data-collector/pkg/services"
+	"github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services"
 )
 
 type DaprEventModel struct {

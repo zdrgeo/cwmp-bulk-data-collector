@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	collectorservices "github.com/zdrgeo/bulk-data-collector/pkg/services"
+	collectorservices "github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services"
 )
 
 const (

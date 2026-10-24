@@ -7,7 +7,7 @@ import (
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 
-	"github.com/zdrgeo/bulk-data-collector/pkg/services"
+	"github.com/zdrgeo/cwmp-bulk-data-collector/pkg/services"
 )
 
 type OTelMeterOptions struct {
